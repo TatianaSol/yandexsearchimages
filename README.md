@@ -1,5 +1,6 @@
 # yandexsearchimages
-Yandex Seacrh/Images test cases
+#yandex #search #qa #python #selenium #pytest
+Yandex Search/Images test cases
 
 Поиск в яндексе
 1) Зайти на yandex.ru
